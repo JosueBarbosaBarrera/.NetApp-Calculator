@@ -14,9 +14,7 @@ Able to chain operations and handle the decimal point appropriately.
 
 
 /*
-31/10/2020
-Materia: Desarollo .Net
-Tecnologico Mario Molina Pasquel y Enriquez campus Zapopan
+31/10/2020 - Materia: Desarollo .Net - Tecnologico Mario Molina Pasquel y Enriquez campus Zapopan
 
 Practica 1 - Calculadora
 
